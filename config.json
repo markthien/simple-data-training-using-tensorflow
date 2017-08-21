@@ -1,0 +1,11 @@
+{
+	"dataFile": "dataset.csv",
+	"testDataFile": "testData.csv",
+	"checkpointPath": "checkpoint/ishealthy.tfl.ckpt",
+	"numOfEpoch":50,
+	"batchSize":16,
+	"showMetric":"True",
+	"numOfColumnExceptTargetColumn":5,
+	"numOfRowData":60,
+	"modelFileName":"checkpoint/ishealthy.tfl"
+}
