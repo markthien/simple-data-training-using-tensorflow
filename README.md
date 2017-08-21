@@ -19,3 +19,5 @@ This tutoial consist of 5 files, which are
 My finding
 If you have less data to train your model, then you need to increase epoch in order to better prediction.
 If you have a lotof data to train your model, then you need less epoch and your prediction should be pretty good.
+
+Most of codes here credited to git repo here https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md
