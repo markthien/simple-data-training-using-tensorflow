@@ -1,6 +1,8 @@
 # simple-model-training-using-tensorflow
 This is a tutorial to guide you how to train your model with data in CSV using tensorflow. After training, you can use some test data to see if your model train correctly. You need to configure epoch, batch size and etc in order to optimise your training.
 
+I am using supervised learning, learning with an answer key.
+
 We will use an simple case where a person is defined to be healthy based on sex, age, number of gram of meat consume each day, number of gram of vegetable consume each day and number of meter walking each day. For example, female age 20 consider healthy if she is taking 100 gram of meat everyday, 10 gram of vegetable everyday and walking 500 meters everyday. However, a female age 20 consider not healthy if she is taking 500 gram of meat everyday, 10 gram of vegetable everyday and walking 500 meters everyday.
 
 I have preapred 60 rows of dataset to train my model.
